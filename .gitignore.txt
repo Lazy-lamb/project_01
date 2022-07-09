@@ -1,8 +1,8 @@
 #忽略index.css
 index.css
 
-#忽略test
-test/
+#忽略test文件夹
+test/*
 
-#忽略ignore
+#忽略ignore文件夹
 ignore/
