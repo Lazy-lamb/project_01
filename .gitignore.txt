@@ -4,3 +4,5 @@ index.css
 #忽略test
 test/
 
+#忽略ignore
+ignore/
